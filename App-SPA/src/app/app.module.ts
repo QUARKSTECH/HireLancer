@@ -1,4 +1,4 @@
-import { BrowserModule } from "@angular/platform-browser";
+import { BrowserModule, Title } from "@angular/platform-browser";
 import { NgModule } from "@angular/core";
 
 import { AppRoutingModule } from "./app-routing.module";
@@ -10,7 +10,7 @@ import { SharedModule } from "./shared/shared.module";
 import { HomeModule } from "./module/home/home.module";
 
 import { StarterModule } from "./module/starter/starter.module";
-
+import { AuthModule } from './module/auth/auth.module';
 @NgModule({
   declarations: [AppComponent],
   imports: [
@@ -23,12 +23,14 @@ import { StarterModule } from "./module/starter/starter.module";
     // Stater
     StarterModule,
 
+    // AuthModule
+    AuthModule,
+
     // Core & Shared
     CoreModule,
     SharedModule
   ],
-  providers: [],
+  providers: [Title],
   bootstrap: [AppComponent]
 })
-export class AppModule {
-}
+export class AppModule {}

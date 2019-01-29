@@ -1,10 +1,10 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { CoreComponent } from './core/core.component';
-
 import { HomeComponent } from './module/home/home.component';
 import { StarterComponent } from './module/starter/starter.component';
+
+import { AuthRoutes } from './module/auth/auth.routing';
 
 const routes: Routes = [
   {
@@ -22,7 +22,10 @@ const routes: Routes = [
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [
+    AuthRoutes,
+    RouterModule.forRoot(routes)
+  ],
   exports: [RouterModule]
 })
 export class AppRoutingModule {}

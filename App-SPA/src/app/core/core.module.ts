@@ -1,12 +1,10 @@
-import { NgModule } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { CoreComponent } from './core.component';
+import { NgModule } from "@angular/core";
+import { CommonModule } from "@angular/common";
+import { CoreComponent } from "./core.component";
 
 @NgModule({
-  imports: [
-    CommonModule
-  ],
+  imports: [CommonModule],
   declarations: [CoreComponent],
   exports: [CoreComponent]
 })
-export class CoreModule { }
+export class CoreModule {}
