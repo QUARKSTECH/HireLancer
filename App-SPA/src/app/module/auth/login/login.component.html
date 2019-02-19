@@ -40,20 +40,26 @@
                   >Keep me logged in</label
                 >
               </div>
-              <a class="forgetpassword" href="/forgot-password"
-                >Forgot Password?</a
-              >
             </div>
             <div class="text-center">
               <button class="btn btn-common log-btn">Submit</button>
             </div>
-            <div class="form-group mb-3">
-              <ul class="form-links">
-                <li class="float-right">
-                  <a href="/register">Don't have an account?</a>
-                </li>
-              </ul>
-            </div>
+            <div class="form-group mt-3">
+                <ul class="form-links">
+                  <li class="float-left">
+                    <a
+                      [routerLink]="['/register']"
+                      routerLinkActive="router-link-active"
+                      >Don't have an account?</a
+                    >
+                  </li>
+                  <li class="float-right">
+                      <a  [routerLink]="['/forgot-password']" routerLinkActive="router-link-active"  class="forgetpassword" 
+                      >Forgot Password?</a
+                    >
+                  </li>
+                </ul>
+              </div>
           </form>
         </div>
       </div>

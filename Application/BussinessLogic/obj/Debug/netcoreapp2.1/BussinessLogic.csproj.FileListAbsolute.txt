@@ -1,0 +1,8 @@
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\bin\Debug\netcoreapp2.1\BussinessLogic.deps.json
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\bin\Debug\netcoreapp2.1\BussinessLogic.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\bin\Debug\netcoreapp2.1\BussinessLogic.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.1\BussinessLogic.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.1\BussinessLogic.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.1\BussinessLogic.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.1\BussinessLogic.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.1\BussinessLogic.pdb

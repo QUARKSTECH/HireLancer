@@ -1,0 +1,15 @@
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\DataEntities.deps.json
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\DataEntities.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\DataEntities.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\CommonObjects.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\Utils.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\CommonObjects.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\Utils.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\obj\Debug\netcoreapp2.1\DataEntities.csprojResolveAssemblyReference.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\obj\Debug\netcoreapp2.1\DataEntities.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\obj\Debug\netcoreapp2.1\DataEntities.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\obj\Debug\netcoreapp2.1\DataEntities.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\obj\Debug\netcoreapp2.1\DataEntities.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\DataEntities\obj\Debug\netcoreapp2.1\DataEntities.pdb

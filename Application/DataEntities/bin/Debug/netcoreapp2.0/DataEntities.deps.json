@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "DataEntities/1.0.0": {
+        "dependencies": {
+          "CommonObjects": "1.0.0",
+          "Utils": "1.0.0"
+        },
+        "runtime": {
+          "DataEntities.dll": {}
+        }
+      },
+      "CommonObjects/1.0.0": {
+        "runtime": {
+          "CommonObjects.dll": {}
+        }
+      },
+      "Utils/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.0.0"
+        },
+        "runtime": {
+          "Utils.dll": {}
+        }
+      },
+      "Newtonsoft.Json.Reference/10.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.1.20720"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommonObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json.Reference/10.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

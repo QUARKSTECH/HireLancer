@@ -14,6 +14,6 @@ export class AppComponent implements OnInit {
   ) {}
 
   ngOnInit() {
-    this.titleService.setTitle("HireLancer");
+    this.titleService.setTitle("Hire Lancer");
   }
 }

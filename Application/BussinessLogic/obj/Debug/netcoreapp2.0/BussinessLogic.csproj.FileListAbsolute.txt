@@ -1,0 +1,17 @@
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\bin\Debug\netcoreapp2.0\BussinessLogic.deps.json
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\bin\Debug\netcoreapp2.0\BussinessLogic.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\bin\Debug\netcoreapp2.0\BussinessLogic.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.csprojResolveAssemblyReference.cache
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\bin\Debug\netcoreapp2.0\BussinessLogic.deps.json
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\bin\Debug\netcoreapp2.0\BussinessLogic.dll
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\bin\Debug\netcoreapp2.0\BussinessLogic.pdb
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.dll
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogic\obj\Debug\netcoreapp2.0\BussinessLogic.pdb

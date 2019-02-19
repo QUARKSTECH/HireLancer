@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 
-import { AuthRoutes } from './auth.routing';
+import { AuthRoutingModule } from './auth.routing';
 import { CommonModule } from '@angular/common';
 import { SharedModule } from './../../shared/shared.module';
 
@@ -14,7 +14,7 @@ import { ForgotPasswordComponent } from './forgot-password/forgot-password.compo
   imports: [
     CommonModule,
     SharedModule,
-    AuthRoutes
+    AuthRoutingModule
   ],
   declarations: [
     LoginComponent,

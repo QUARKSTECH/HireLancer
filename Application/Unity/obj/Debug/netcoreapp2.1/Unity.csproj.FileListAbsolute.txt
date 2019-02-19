@@ -1,0 +1,8 @@
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\bin\Debug\netcoreapp2.1\Unity.deps.json
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\bin\Debug\netcoreapp2.1\Unity.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\bin\Debug\netcoreapp2.1\Unity.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.1\Unity.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.1\Unity.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.1\Unity.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.1\Unity.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.1\Unity.pdb

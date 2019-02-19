@@ -3,8 +3,8 @@ import { Routes, RouterModule } from '@angular/router';
 
 import { HomeComponent } from './module/home/home.component';
 import { StarterComponent } from './module/starter/starter.component';
+import { AuthRoutingModule } from './module/auth/auth.routing';
 
-import { AuthRoutes } from './module/auth/auth.routing';
 
 const routes: Routes = [
   {
@@ -23,7 +23,7 @@ const routes: Routes = [
 
 @NgModule({
   imports: [
-    AuthRoutes,
+    AuthRoutingModule,
     RouterModule.forRoot(routes)
   ],
   exports: [RouterModule]

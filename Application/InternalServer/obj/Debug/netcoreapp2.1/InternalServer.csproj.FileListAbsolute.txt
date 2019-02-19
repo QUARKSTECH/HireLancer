@@ -1,0 +1,8 @@
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\bin\Debug\netcoreapp2.1\InternalServer.deps.json
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\bin\Debug\netcoreapp2.1\InternalServer.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\bin\Debug\netcoreapp2.1\InternalServer.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\obj\Debug\netcoreapp2.1\InternalServer.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\obj\Debug\netcoreapp2.1\InternalServer.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\obj\Debug\netcoreapp2.1\InternalServer.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\obj\Debug\netcoreapp2.1\InternalServer.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalServer\obj\Debug\netcoreapp2.1\InternalServer.pdb

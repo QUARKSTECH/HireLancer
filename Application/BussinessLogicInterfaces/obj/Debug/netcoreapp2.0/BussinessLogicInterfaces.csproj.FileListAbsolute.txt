@@ -1,0 +1,16 @@
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.0\BussinessLogicInterfaces.deps.json
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.0\BussinessLogicInterfaces.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.0\BussinessLogicInterfaces.pdb
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.dll
+D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.pdb
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.0\BussinessLogicInterfaces.deps.json
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.0\BussinessLogicInterfaces.dll
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.0\BussinessLogicInterfaces.pdb
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.csproj.CoreCompileInputs.cache
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.AssemblyInfoInputs.cache
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.AssemblyInfo.cs
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.dll
+D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.0\BussinessLogicInterfaces.pdb
