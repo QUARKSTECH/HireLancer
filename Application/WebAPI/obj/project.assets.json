@@ -5190,8 +5190,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "CommonObjects": "1.0.0",
-          "Utils": "1.0.0"
+          "CommonObjects": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataEntities.dll": {}
@@ -5221,16 +5220,6 @@
         },
         "runtime": {
           "bin/placeholder/Entities.dll": {}
-        }
-      },
-      "Utils/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Utils.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Utils.dll": {}
         }
       }
     }
@@ -13672,11 +13661,6 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
-    },
-    "Utils/1.0.0": {
-      "type": "project",
-      "path": "../../Utils/Utils.csproj",
-      "msbuildProject": "../../Utils/Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {

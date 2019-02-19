@@ -6,11 +6,3 @@ D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.
 D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.0\Unity.AssemblyInfo.cs
 D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.0\Unity.dll
 D:\Workplace\Moin-Mansoor\Core-projects\Application\Unity\obj\Debug\netcoreapp2.0\Unity.pdb
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\bin\Debug\netcoreapp2.0\Unity.deps.json
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\bin\Debug\netcoreapp2.0\Unity.dll
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\bin\Debug\netcoreapp2.0\Unity.pdb
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\obj\Debug\netcoreapp2.0\Unity.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\obj\Debug\netcoreapp2.0\Unity.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\obj\Debug\netcoreapp2.0\Unity.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\obj\Debug\netcoreapp2.0\Unity.dll
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\Unity\obj\Debug\netcoreapp2.0\Unity.pdb

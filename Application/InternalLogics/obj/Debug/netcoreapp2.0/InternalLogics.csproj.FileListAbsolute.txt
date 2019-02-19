@@ -6,11 +6,3 @@ D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\net
 D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.AssemblyInfo.cs
 D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.dll
 D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.pdb
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\bin\Debug\netcoreapp2.0\InternalLogics.deps.json
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\bin\Debug\netcoreapp2.0\InternalLogics.dll
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\bin\Debug\netcoreapp2.0\InternalLogics.pdb
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.dll
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\InternalLogics\obj\Debug\netcoreapp2.0\InternalLogics.pdb

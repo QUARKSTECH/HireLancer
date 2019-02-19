@@ -6,11 +6,3 @@ D:\Workplace\Moin-Mansoor\Core-projects\Application\CommonObjects\obj\Debug\netc
 D:\Workplace\Moin-Mansoor\Core-projects\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.AssemblyInfo.cs
 D:\Workplace\Moin-Mansoor\Core-projects\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.dll
 D:\Workplace\Moin-Mansoor\Core-projects\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.pdb
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\bin\Debug\netcoreapp2.0\CommonObjects.deps.json
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\bin\Debug\netcoreapp2.0\CommonObjects.dll
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\bin\Debug\netcoreapp2.0\CommonObjects.pdb
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.dll
-D:\Workplace\Moin-Mansoor\HireLancer\HireLancer\Application\CommonObjects\obj\Debug\netcoreapp2.0\CommonObjects.pdb

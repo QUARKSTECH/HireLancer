@@ -206,16 +206,6 @@
         "runtime": {
           "bin/placeholder/CommonObjects.dll": {}
         }
-      },
-      "Utils/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.0",
-        "compile": {
-          "bin/placeholder/Utils.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Utils.dll": {}
-        }
       }
     }
   },
@@ -681,18 +671,12 @@
       "type": "project",
       "path": "../CommonObjects/CommonObjects.csproj",
       "msbuildProject": "../CommonObjects/CommonObjects.csproj"
-    },
-    "Utils/1.0.0": {
-      "type": "project",
-      "path": "../../Utils/Utils.csproj",
-      "msbuildProject": "../../Utils/Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "CommonObjects >= 1.0.0",
-      "Microsoft.NETCore.App >= 2.0.0",
-      "Utils >= 1.0.0"
+      "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
   "packageFolders": {
@@ -728,9 +712,6 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Workplace\\Moin-Mansoor\\HireLancer\\HireLancer\\Utils\\Utils.csproj": {
-              "projectPath": "D:\\Workplace\\Moin-Mansoor\\HireLancer\\HireLancer\\Utils\\Utils.csproj"
-            },
             "D:\\Workplace\\Moin-Mansoor\\HireLancer\\HireLancer\\Application\\CommonObjects\\CommonObjects.csproj": {
               "projectPath": "D:\\Workplace\\Moin-Mansoor\\HireLancer\\HireLancer\\Application\\CommonObjects\\CommonObjects.csproj"
             }
