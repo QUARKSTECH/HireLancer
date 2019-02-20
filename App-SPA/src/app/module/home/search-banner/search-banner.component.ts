@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./search-banner.component.scss']
 })
 export class SearchBannerComponent implements OnInit {
-
+  appName = 'Hire lancer';
   constructor() { }
 
   ngOnInit() {
