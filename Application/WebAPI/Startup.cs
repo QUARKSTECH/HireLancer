@@ -35,14 +35,14 @@ namespace WebAPI
         {
             services.AddMvc();
 
-            var tokenProvider = new RsaJwtTokenProvider("issuer", "audience", "mykeyname");
-            services.AddSingleton<ITokenProvider>(tokenProvider);
+            // var tokenProvider = new RsaJwtTokenProvider("issuer", "audience", "mykeyname");
+            // services.AddSingleton<ITokenProvider>(tokenProvider);
 
-            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(options => {
-                    options.RequireHttpsMetadata = false;
-                    options.TokenValidationParameters = tokenProvider.GetValidationParameters();
-                });
+            // services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+            //     .AddJwtBearer(options => {
+            //         options.RequireHttpsMetadata = false;
+            //         options.TokenValidationParameters = tokenProvider.GetValidationParameters();
+            //     });
 
             // This is for the [Authorize] attributes.
             services.AddAuthorization(auth => {

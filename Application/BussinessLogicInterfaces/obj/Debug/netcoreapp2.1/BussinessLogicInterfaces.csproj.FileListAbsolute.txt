@@ -1,8 +1,0 @@
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.1\BussinessLogicInterfaces.deps.json
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.1\BussinessLogicInterfaces.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\bin\Debug\netcoreapp2.1\BussinessLogicInterfaces.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.1\BussinessLogicInterfaces.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.1\BussinessLogicInterfaces.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.1\BussinessLogicInterfaces.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.1\BussinessLogicInterfaces.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\BussinessLogicInterfaces\obj\Debug\netcoreapp2.1\BussinessLogicInterfaces.pdb

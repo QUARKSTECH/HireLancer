@@ -1,8 +1,0 @@
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\bin\Debug\netcoreapp2.1\InternalLogics.deps.json
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\bin\Debug\netcoreapp2.1\InternalLogics.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\bin\Debug\netcoreapp2.1\InternalLogics.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.1\InternalLogics.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.1\InternalLogics.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.1\InternalLogics.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.1\InternalLogics.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\InternalLogics\obj\Debug\netcoreapp2.1\InternalLogics.pdb

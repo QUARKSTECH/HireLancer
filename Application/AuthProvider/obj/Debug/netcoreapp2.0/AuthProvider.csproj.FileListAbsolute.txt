@@ -1,9 +1,0 @@
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\bin\Debug\netcoreapp2.0\AuthProvider.deps.json
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\bin\Debug\netcoreapp2.0\AuthProvider.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\bin\Debug\netcoreapp2.0\AuthProvider.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\obj\Debug\netcoreapp2.0\AuthProvider.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\obj\Debug\netcoreapp2.0\AuthProvider.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\obj\Debug\netcoreapp2.0\AuthProvider.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\obj\Debug\netcoreapp2.0\AuthProvider.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\obj\Debug\netcoreapp2.0\AuthProvider.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\AuthProvider\obj\Debug\netcoreapp2.0\AuthProvider.csprojResolveAssemblyReference.cache

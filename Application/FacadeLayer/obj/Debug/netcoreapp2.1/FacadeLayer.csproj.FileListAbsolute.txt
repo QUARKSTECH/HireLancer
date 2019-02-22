@@ -1,8 +1,0 @@
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\bin\Debug\netcoreapp2.1\FacadeLayer.deps.json
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\bin\Debug\netcoreapp2.1\FacadeLayer.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\bin\Debug\netcoreapp2.1\FacadeLayer.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\obj\Debug\netcoreapp2.1\FacadeLayer.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\obj\Debug\netcoreapp2.1\FacadeLayer.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\obj\Debug\netcoreapp2.1\FacadeLayer.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\obj\Debug\netcoreapp2.1\FacadeLayer.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\FacadeLayer\obj\Debug\netcoreapp2.1\FacadeLayer.pdb

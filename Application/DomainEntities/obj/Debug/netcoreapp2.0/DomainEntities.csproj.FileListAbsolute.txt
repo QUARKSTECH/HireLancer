@@ -1,9 +1,0 @@
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\bin\Debug\netcoreapp2.0\DomainEntities.deps.json
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\bin\Debug\netcoreapp2.0\DomainEntities.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\bin\Debug\netcoreapp2.0\DomainEntities.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\obj\Debug\netcoreapp2.0\DomainEntities.csproj.CoreCompileInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\obj\Debug\netcoreapp2.0\DomainEntities.AssemblyInfoInputs.cache
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\obj\Debug\netcoreapp2.0\DomainEntities.AssemblyInfo.cs
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\obj\Debug\netcoreapp2.0\DomainEntities.dll
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\obj\Debug\netcoreapp2.0\DomainEntities.pdb
-D:\Workplace\Moin-Mansoor\Core-projects\Application\DomainEntities\obj\Debug\netcoreapp2.0\DomainEntities.csprojResolveAssemblyReference.cache

@@ -11,7 +11,7 @@ namespace WebAPI.Controllers
     [Produces("application/json")]
     [Route("api/[controller]")]
     [Authorize]
-    public class ExternalController : Controller
+    public class ExternalController : ControllerBase
     {
         #region Pro-Services
         /// <summary>
