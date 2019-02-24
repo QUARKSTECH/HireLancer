@@ -11,29 +11,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccessLayer", "DataAcce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommonObjects", "CommonObjects\CommonObjects.csproj", "{32A9FE69-CDA4-452E-8F27-2AFDE7430083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternalLogics", "InternalLogics\InternalLogics.csproj", "{B0D06363-7528-4F23-AA82-8164893B63A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternalLogics", "InternalLogics\InternalLogics.csproj", "{B0D06363-7528-4F23-AA82-8164893B63A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataEntities", "DataEntities\DataEntities.csproj", "{5CF85CEF-2B88-4378-BB51-56B11F386E90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataEntities", "DataEntities\DataEntities.csproj", "{5CF85CEF-2B88-4378-BB51-56B11F386E90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{8FC717A6-896E-416D-BF0D-65BCF28A582F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entities", "Entities\Entities.csproj", "{8FC717A6-896E-416D-BF0D-65BCF28A582F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{16E20CA3-BF34-4D00-8623-8507F27C83EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessLogic", "BussinessLogic\BussinessLogic.csproj", "{16E20CA3-BF34-4D00-8623-8507F27C83EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLogicInterfaces", "BussinessLogicInterfaces\BussinessLogicInterfaces.csproj", "{314C23CE-CB14-48C5-85AF-4D0A984E782A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BussinessLogicInterfaces", "BussinessLogicInterfaces\BussinessLogicInterfaces.csproj", "{314C23CE-CB14-48C5-85AF-4D0A984E782A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity", "Unity\Unity.csproj", "{40A29C63-0AA1-4DB6-B8BA-7CF121798E50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unity", "Unity\Unity.csproj", "{40A29C63-0AA1-4DB6-B8BA-7CF121798E50}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{9A6AB81B-61BE-456F-B459-191481909D6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthProvider", "AuthProvider\AuthProvider.csproj", "{FEE4B587-774A-4B75-9003-2C0BBB312F98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthProvider", "AuthProvider\AuthProvider.csproj", "{FEE4B587-774A-4B75-9003-2C0BBB312F98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainEntities", "DomainEntities\DomainEntities.csproj", "{FBF95FA0-0850-47D8-AD2B-BDA0E2E1EAE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DomainEntities", "DomainEntities\DomainEntities.csproj", "{FBF95FA0-0850-47D8-AD2B-BDA0E2E1EAE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeLayer", "FacadeLayer\FacadeLayer.csproj", "{2182E40F-693A-4319-A2B2-95D94BDD7114}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadeLayer", "FacadeLayer\FacadeLayer.csproj", "{2182E40F-693A-4319-A2B2-95D94BDD7114}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A0045A37-D86E-4E6A-9398-195253F3B9BB}"
-EndProject
-Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{45F09FC7-0243-4422-8F56-DBB54ECB12C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{A0045A37-D86E-4E6A-9398-195253F3B9BB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utils", "Utils\Utils.csproj", "{EED2DB5D-127D-4F69-BDC9-9A21A5887644}"
 EndProject
@@ -87,10 +85,6 @@ Global
 		{A0045A37-D86E-4E6A-9398-195253F3B9BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0045A37-D86E-4E6A-9398-195253F3B9BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0045A37-D86E-4E6A-9398-195253F3B9BB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{45F09FC7-0243-4422-8F56-DBB54ECB12C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{45F09FC7-0243-4422-8F56-DBB54ECB12C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{45F09FC7-0243-4422-8F56-DBB54ECB12C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{45F09FC7-0243-4422-8F56-DBB54ECB12C5}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EED2DB5D-127D-4F69-BDC9-9A21A5887644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{EED2DB5D-127D-4F69-BDC9-9A21A5887644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EED2DB5D-127D-4F69-BDC9-9A21A5887644}.Release|Any CPU.ActiveCfg = Release|Any CPU

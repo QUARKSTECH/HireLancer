@@ -1,13 +1,11 @@
-﻿using AuthProvider.Interface;
-using AuthProvider.Provider;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using WebAPI.Attributes;
 using WebAPI.Extensions;
-
 
 namespace WebAPI
 {
@@ -35,23 +33,13 @@ namespace WebAPI
         {
             services.AddMvc();
 
-            // var tokenProvider = new RsaJwtTokenProvider("issuer", "audience", "mykeyname");
-            // services.AddSingleton<ITokenProvider>(tokenProvider);
+            // Model valildation attribute
+            services.AddScoped<ModelValidationAttribute>();
 
-            // services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-            //     .AddJwtBearer(options => {
-            //         options.RequireHttpsMetadata = false;
-            //         options.TokenValidationParameters = tokenProvider.GetValidationParameters();
-            //     });
+            // Authorize attribute
+            services.AddJWTAuthorization();
 
-            // This is for the [Authorize] attributes.
-            services.AddAuthorization(auth => {
-                auth.DefaultPolicy = new AuthorizationPolicyBuilder()
-                    .AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme)
-                    .RequireAuthenticatedUser()
-                    .Build();
-            });
-
+            // Swagger documentation
             services.AddSwaggerDocumentation();
         }
 
@@ -62,6 +50,9 @@ namespace WebAPI
         /// <param name="env"></param>
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            // Custom exception handler
+            app.UseCustomExceptionHandler();
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();

@@ -5,4 +5,8 @@
     <RootNamespace>BussinessLogic</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BussinessLogicInterfaces\BussinessLogicInterfaces.csproj" />
+  </ItemGroup>
+
 </Project>

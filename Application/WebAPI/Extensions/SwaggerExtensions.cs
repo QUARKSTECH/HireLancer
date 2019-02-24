@@ -8,7 +8,7 @@ namespace WebAPI.Extensions
     /// <summary>
     /// 
     /// </summary>
-    public static class SwaggerServiceExtension
+    public static class SwaggerExtensions
     {
         /// <summary>
         /// 
