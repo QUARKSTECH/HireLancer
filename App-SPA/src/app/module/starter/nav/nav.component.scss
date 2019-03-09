@@ -1,0 +1,51 @@
+.fixed-top {
+    top: 0px;
+  }
+  
+  .search-bar .form-group {
+    width: 75%;
+  }
+  
+  .navbar-expand-lg .navbar-nav .nav-link {
+    font-size: 12px;
+    padding: 0px 5px;
+    text-transform: uppercase;
+    line-height: 28px;
+    margin-right: 5px;
+  }
+  
+  .nav-link:hover {
+    background: #e91e63;
+    color: #fff !important;
+  }
+
+  .page-header {
+    padding: 75px 0 9px;
+    position: relative;
+    background: #e91e63;
+  }
+  .product-title{
+    margin: 0px;
+  }
+  .starter-nav, .sub-starter-nav {
+    padding-right: 0px; 
+    padding-left: 0px; 
+  }
+
+  .sub-starter-nav  {
+    margin-top: 10px;
+  }
+
+  .main-nav{
+    height: 68px;
+  }
+  .navbar-expand-lg .navbar-nav .nav-link{
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .sub-starter-nav .navbar-expand-lg .navbar-nav .nav-link{
+    text-transform: initial;
+  }
+  
+  

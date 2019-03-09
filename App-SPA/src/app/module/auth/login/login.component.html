@@ -6,60 +6,40 @@
       <div class="col-lg-5 col-md-12 col-xs-12">
         <div class="login-form login-area">
           <h3>Login Now</h3>
-          <form role="form" class="login-form">
+          <form #loginForm="ngForm" class="login-form" (ngSubmit)="login()">
             <div class="form-group">
               <div class="input-icon">
                 <i class="lni-user"></i>
-                <input
-                  type="text"
-                  id="sender-email"
-                  class="form-control"
-                  name="email"
-                  placeholder="Username"
-                />
+                <input type="text" id="sender-email" class="form-control" name="email" placeholder="Username" required
+                  [(ngModel)]="model.username" />
               </div>
             </div>
             <div class="form-group">
               <div class="input-icon">
                 <i class="lni-lock"></i>
-                <input
-                  type="password"
-                  class="form-control"
-                  placeholder="Password"
-                />
+                <input type="password" id="Password" class="form-control" name="password" placeholder="Password"
+                  required [(ngModel)]="model.password" />
               </div>
             </div>
             <div class="form-group mb-3">
               <div class="custom-control custom-checkbox">
-                <input
-                  type="checkbox"
-                  class="custom-control-input"
-                  id="checkedall"
-                />
-                <label class="custom-control-label" for="checkedall"
-                  >Keep me logged in</label
-                >
+                <input type="checkbox" id="checkedall" class="custom-control-input" name="checkedall" required
+                  [(ngModel)]="model.checkedall" />
+
+                <label class="custom-control-label" for="checkedall">Keep me logged in</label>
               </div>
+              <a class="forgetpassword" href="/forgot-password">Forgot Password?</a>
             </div>
             <div class="text-center">
               <button class="btn btn-common log-btn">Submit</button>
             </div>
-            <div class="form-group mt-3">
-                <ul class="form-links">
-                  <li class="float-left">
-                    <a
-                      [routerLink]="['/register']"
-                      routerLinkActive="router-link-active"
-                      >Don't have an account?</a
-                    >
-                  </li>
-                  <li class="float-right">
-                      <a  [routerLink]="['/forgot-password']" routerLinkActive="router-link-active"  class="forgetpassword" 
-                      >Forgot Password?</a
-                    >
-                  </li>
-                </ul>
-              </div>
+            <div class="form-group mb-3">
+              <ul class="form-links">
+                <li class="float-right">
+                  <a href="/register">Don't have an account?</a>
+                </li>
+              </ul>
+            </div>
           </form>
         </div>
       </div>

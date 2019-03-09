@@ -1,25 +1,17 @@
-﻿using AuthProvider.Interface;
-using AuthProvider.Provider;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Authorization;
+using Extensions.DbContext;
+using Extensions.Mapper;
+using Extensions.Swagger;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using WebAPI.Extensions;
-
 
 namespace WebAPI
 {
-    /// <summary>
-    /// 
-    /// </summary>
     public class Startup
     {
-        /// <summary>
-        /// 
-        /// </summary>
-        /// <param name="configuration"></param>
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -27,52 +19,77 @@ namespace WebAPI
 
         public IConfiguration Configuration { get; }
 
-        /// <summary>
-        /// This method gets called by the runtime. Use this method to add services to the container.
-        /// </summary>
-        /// <param name="services"></param>
+        // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc();
+            services.AddMvc(config =>
+            {
+                config.ReturnHttpNotAcceptable = true;
+            }).SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
-            // var tokenProvider = new RsaJwtTokenProvider("issuer", "audience", "mykeyname");
-            // services.AddSingleton<ITokenProvider>(tokenProvider);
+            // Add framework services.
+            services.AddContext(Configuration);
 
-            // services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-            //     .AddJwtBearer(options => {
-            //         options.RequireHttpsMetadata = false;
-            //         options.TokenValidationParameters = tokenProvider.GetValidationParameters();
-            //     });
+            // Register the Swagger generator
+            services.AddSwaggerDocumentation();
 
-            // This is for the [Authorize] attributes.
-            services.AddAuthorization(auth => {
-                auth.DefaultPolicy = new AuthorizationPolicyBuilder()
-                    .AddAuthenticationSchemes(JwtBearerDefaults.AuthenticationScheme)
-                    .RequireAuthenticatedUser()
-                    .Build();
+            // Add cors
+            services.AddCors();
+
+            // Add Mapper
+            services.AddMapper();
+
+            services.Configure<CookiePolicyOptions>(options =>
+            {
+                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+                options.CheckConsentNeeded = context => true;
+                options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddSwaggerDocumentation();
+            // Authenticate
+            services.AddJWTAuthentication(Configuration);
         }
 
-        /// <summary>
-        /// This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        /// </summary>
-        /// <param name="app"></param>
-        /// <param name="env"></param>
+        // TODO: Check for development
+        //public void ConfigureDevelopmentServices(IServiceCollection services)
+        //{
+
+        //}
+
+        // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                app.UseExceptionHandler("/Error");
+                // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+                app.UseHsts();
+            }
 
-            app.UseAuthentication();
-            app.UseDefaultFiles();
+            //app.UseHttpsRedirection();
+            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             app.UseStaticFiles();
-            app.UseMvc();
+            app.UseCookiePolicy();
+           
 
+            // Enable middleware to serve generated Swagger as a JSON endpoint.
             app.UseSwaggerDocumentation();
+
+            // Add migraation and seed
+            app.AddMigrationAndSeed();
+
+            //app.UseMvc(routes => {
+            //    routes.MapSpaFallbackRoute(
+            //        name: "spa-fallback",
+            //        defaults: new { Controller = "Base", action = "Index" }
+            //    );
+            //});
+
+            app.UseMvc();
         }
     }
 }

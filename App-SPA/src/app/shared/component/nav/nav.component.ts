@@ -1,4 +1,3 @@
-import { Router  } from '@angular/router';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -8,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavComponent implements OnInit {
   appName = 'Hire lancer';
-  constructor(private router: Router) {}
+  constructor() { }
 
   ngOnInit() {
   }

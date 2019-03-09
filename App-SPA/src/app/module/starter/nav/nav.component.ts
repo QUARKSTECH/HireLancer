@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-nav',
+  selector: 'app-startup-nav',
   templateUrl: './nav.component.html',
   styleUrls: ['./nav.component.scss']
 })
-export class NavComponent implements OnInit {
-
+export class StartUpNavComponent implements OnInit {
+  appName = 'Hire lancer';
   constructor() { }
 
   ngOnInit() {
